@@ -1,8 +1,10 @@
 # Bienvenue dans Path'Hetic, un mini-rpg python sur console.
 
 # Comment lancer le jeu ?
-### Pour lancer le jeu, il vous suffit d'utiliser VSCode,
-### puis d'ouvrir le fichier "Demarrer_une_partie" et enfin executer le code dans un terminal.
+### Version avec texte en couleur : Vous devez charger le fichier "Demarrer_une_partie.py" dans VScode ou Pycharm ou Spyder.
+### Puis vous n'avez plus qu'à l'executer.
+
+### Version sans texte en couleur : Il vous suffit de telecharger le fichier "Path'Hetic le jeu" puis de lancer le fichier "Demarrer_une_partie.exe"
 	
 
 # Histoire du jeu:
