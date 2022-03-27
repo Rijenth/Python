@@ -8,9 +8,9 @@
 
 # Histoire du jeu:
 ### Vous êtes un jeune actif travaillant pour une entreprise depuis quelques années.
-### Au détour d'un baillement, vous vous réveillez soudainement dans un monde lugubre...
+### Vous vous endormez sur votre bureau et vous vous réveillez soudainement dans un monde lugubre...
 ### Vous êtes dans l'enceinte d'un batiment qui semble vous rappeler votre passé d'étudiant.
-### Vous allez devoir explorer ce monde, nouveau et familier à la fois, afin de vous débarrasser de vos vieux démons.
+### Vous allez devoir explorer ce monde, familier et nouveau à la fois, afin de vous débarrasser de vos vieux démons.
 ### ... Et eventuellement retourner à votre poste...
 
 # Les astuces du développeur plutôt sympa :
