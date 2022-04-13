@@ -1,9 +1,9 @@
 # RPG Python
 
-| Personne            | Rôle                      |github
+| Personne            | Rôle                      | Github
 | ------------------- | ------------------------- | ------------------------- |
 | ARUMAINATHAN Rijenth| Système combat ,Design monstre/boss , Interface utilisateur , Gestion des évènements |[Rijenth](https://github.com/Rijenth)|
-| BAKAYOKO Kader      | Joueur , Système de commerce , Système d'équipement, Système d'expérience ,Système de classe |[kader](https://github.com/gaoubak)|
+| BAKAYOKO Kader      | Joueur , Système de commerce , Système d'équipement, Système d'expérience ,Système de classe |[Kader](https://github.com/gaoubak)|
 | PIVERT Fabrice      | Conception de la map , Système de déplacement, Design des quêtes |[Fabrice](https://github.com/FabPiv)|
 | LESOING Valentin    | Narration ,Système combat,Aspect graphique ,Sauvegarde       |[Valentin](https://github.com/valentin-lsg)|
 
@@ -28,7 +28,7 @@ Si vous choisissez la classe "Mage", les armes classiquents n'augmenteront pas v
 Cependant, les "livre_de_mage" augmenteront vos dégâts.
 Monter votre personnage niveau 10 avant le boss de fin est un très bon plus.
 
-## sujet de base : 
+## Sujet de base : 
 
 Vous devez créer un jeu de type RPG retro-style au tour par tour sur console.
 Voici le synopsis : « Votre nom est Bob. Vous vous réveillez au milieu d’une forêt avec un sac ne contenant qu’un seul objet : un
@@ -60,7 +60,7 @@ durée du combat. On peut revenir en arrière s’il ne veut finalement pas util
 On ne peut utiliser qu’une action à chaque tour (attaque ou objet). Puis le monstre attaque et ainsi de suite jusqu’à que l’un des deux
 n’ai plus de vie.
 
-## Les fonctionnalité
+## Les fonctionnalités
 
 | ✅    | ⭕                 | ❌             |
 | ----- | ------------------ | -------------- |
